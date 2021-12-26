@@ -1,0 +1,8 @@
+Examining the Postgres catalog with Python
+
+https://towardsdatascience.com/examining-the-postgres-catalog-with-python-70d872b8f6d5
+
+Python PostgreSQL Tutorial Using Psycopg2: 
+https://pynative.com/python-postgresql-tutorial/
+
+
